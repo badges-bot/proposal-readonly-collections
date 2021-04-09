@@ -1,5 +1,7 @@
 # proposal-readonly-collections
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 ## `snapshot`,`diverge`,`readOnlyView` methods for all collections
 
 by Mark S. Miller (@erights) and Peter Hoddie (@phoddie)
